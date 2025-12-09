@@ -25,5 +25,4 @@ __pycache__/
 .Trashes
 
 # Project specific
-output/
 *.log
